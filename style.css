@@ -76,6 +76,14 @@ p {
   color: white;
 }
 
+.primary-link:hover {
+  color: white;
+}
+
+.contact-link:hover {
+  color: white;
+}
+
 .homepage-link {
   color: var(--primary-color);
   text-align: center;
